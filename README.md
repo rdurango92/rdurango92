@@ -40,7 +40,7 @@ class RubenDurango:
             "🏭 Liderando innovación tecnológica en la industria",
             "🤖 Construyendo agentes de IA y flujos inteligentes",
             "📟 Programando hardware y conectando dispositivos IoT",
-            "⚡ Explorando el mundo de los vehículos eléctricos",
+            "🏠 Innovando en el mundo de los electrodomésticos",
             "🎮 Siendo gamer en mis ratos libres"
         ]
 
@@ -62,7 +62,7 @@ class RubenDurango:
 
 🧠 **Machine Learning** · Porque los datos sin modelos son solo números aburridos
 
-🏭 **I+D+i Industrial** · Llevando la innovación al piso de producción
+🏠 **Electrodomésticos** · Innovando en la línea blanca con tecnología de punta
 
 </div>
 
